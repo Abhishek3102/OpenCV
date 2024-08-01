@@ -30,6 +30,18 @@ OpenCV was built to provide a common infrastructure for computer vision applicat
 - [ ] Feature Detection and Description
 - [ ] Face Detection and Recognition
 - [ ] Machine Learning with OpenCV
+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+- CANNY EDGE DETECTION
+  ![image](https://github.com/user-attachments/assets/779848fa-30e6-40ca-914c-dfa516c5484b)
+
+- IMAGE THRESHOLDING
+  ![image](https://github.com/user-attachments/assets/76d2272e-5c95-4ca0-b52b-aa779d04cff5)
+
+- FACE RECOGNITION
+  ![image](https://github.com/user-attachments/assets/7d5de849-ba8f-44ff-bf2f-754e21c0cc08)
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Getting Started
 
