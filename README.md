@@ -1,5 +1,7 @@
 # OpenCV Learning Repository
 
+![image](https://github.com/user-attachments/assets/790fa193-d5c5-468f-8e1e-a1f13cc4d0e5)
+
 Welcome to my OpenCV learning repository! This repository contains code and resources related to my learning journey with OpenCV.
 
 ## About OpenCV
@@ -35,8 +37,20 @@ OpenCV was built to provide a common infrastructure for computer vision applicat
 # CANNY EDGE DETECTION
   ![image](https://github.com/user-attachments/assets/779848fa-30e6-40ca-914c-dfa516c5484b)
 
+# CONTOUR DETECTION
+  ![image](https://github.com/user-attachments/assets/835b4e79-f9b3-48ef-a3a7-bbb628e1e441)
+
+# IMAGE MASKING 
+  ![image](https://github.com/user-attachments/assets/f6a03dc7-ca72-45cd-bd0b-27cb341a3bf7)
+
 # IMAGE THRESHOLDING
   ![image](https://github.com/user-attachments/assets/76d2272e-5c95-4ca0-b52b-aa779d04cff5)
+
+# INVERSE THRESHOLDING
+  ![image](https://github.com/user-attachments/assets/adc384bf-53ed-4514-a60a-ee442b024730)
+
+# COMPARING RGB HISTOGRAMS
+  ![image](https://github.com/user-attachments/assets/5ab44152-164b-4b83-8bb6-b091234969e7)
 
 # FACE RECOGNITION
   ![image](https://github.com/user-attachments/assets/7d5de849-ba8f-44ff-bf2f-754e21c0cc08)
